@@ -2,6 +2,7 @@
 
 Usage:
 
+```
 #$ ./healthcheckesxi.pl --server myesxi.example.com --debug
 "System Board 1 System Level --- Normal" [OK]
 "System Board 1 Ambient Temp --- Normal" [OK]
@@ -145,3 +146,4 @@ Usage:
 Summery:
 --------------------------------
 Result: 0
+```
