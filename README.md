@@ -3,7 +3,7 @@
 Usage:
 
 ```
-#$ ./healthcheckesxi.pl --server myesxi.example.com --debug
+#$ ./esx_healthcheck.pl --server myesxi.example.com --debug
 "System Board 1 System Level --- Normal" [OK]
 "System Board 1 Ambient Temp --- Normal" [OK]
 "VMware Rollup Health State" [OK]
